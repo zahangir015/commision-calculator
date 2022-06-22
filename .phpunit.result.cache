@@ -1,1 +1,0 @@
-{"version":1,"defects":{"Warning":6,"App\\Tests\\CommissionCalculatorTest::commission_calculation":4},"times":{"App\\Tests\\CommissionCalculatorTest::testSomething":0.004,"Warning":0.004,"App\\Tests\\CommissionCalculatorTest::commission_calculation":0.013}}
