@@ -1,0 +1,13 @@
+12/31/2014,4,private,withdraw,1200,EUR
+1/1/2015,4,private,withdraw,1000,EUR
+1/5/2016,4,private,withdraw,1000,EUR
+1/5/2016,1,private,deposit,200,EUR
+1/6/2016,2,business,withdraw,300,EUR
+1/6/2016,1,private,withdraw,30000,JPY
+1/7/2016,1,private,withdraw,1000,EUR
+1/7/2016,1,private,withdraw,100,USD
+1/10/2016,1,private,withdraw,100,EUR
+1/10/2016,2,business,deposit,10000,EUR
+1/10/2016,3,private,withdraw,1000,EUR
+2/15/2016,1,private,withdraw,300,EUR
+2/19/2016,5,private,withdraw,3000000,JPY
